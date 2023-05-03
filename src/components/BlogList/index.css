@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.blogList-container {
+  width: 100%;
+  margin: auto;
+  padding-left: 0px;
+}
+@media (man-with: 576px) {
+  .blogList-container {
+    width: 95%;
+  }
+}

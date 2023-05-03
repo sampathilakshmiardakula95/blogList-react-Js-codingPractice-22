@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.blogItem_container {
+  list-style-type: none;
+  width: 100%;
+  border-bottom: 1px solid #e7e5ea;
+}
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.blog-heading {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: bold;
+  color: #12022f;
+  font-style: normal;
+}
+.blog-time {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+.blog-description {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #12022f;
+  font-style: normal;
+  padding-left: 9.5%;
+}
